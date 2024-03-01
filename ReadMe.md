@@ -6,7 +6,7 @@ This repository intends to provision all underline infrastructure in order to ex
 ![Architecture](./artifacts/pictures/architecture.png)
 
 
-In order to performes theses ordinary task the follow scripts were developed:
+In order to perform theses ordinary task the follow scripts were developed:
 
 - [`simple.py`](./python/scripts/simple.py) - Creates a Dataframe and uses Pandas printing the result.
 - [`jdbc.py`](./python/scripts/jdbc.py) - Reads Data from a Postgres Database and prints the result. **Requires [Postgres Library](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.1)**.
